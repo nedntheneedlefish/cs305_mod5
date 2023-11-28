@@ -1,4 +1,4 @@
-#CS 305 Module 05 Assignment/
+#CS 305 Module 05 Assignment<br>
 This is the README file for the cs305 module5 assignment./
 ##Description/
 The purpose of this assignment/repository is to demonstrate that me and my classmates understand best practices for collaboration using common collaboration tools and version control./
