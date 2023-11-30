@@ -8,3 +8,5 @@ Kaiden Etsitty, @nedntheneedlefish, kbe44@nau.edu
 Estrella Pereze, @star3009, emp369@nau.edu  
 Esteban Grijalva, eag463@nau.edu  
 Ella Conolly
+### Hypothetical Module
+This module aims to help you understand how to create a Web page with just a text editor.
